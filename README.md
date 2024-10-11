@@ -1,4 +1,4 @@
-TopStyle API
+# TopStyle API
 TopStyle API är en modern webbapplikation byggd med ASP.NET Core och Entity Framework Core. Applikationen erbjuder API-tjänster för att hantera produkter, användare och beställningar, och använder JWT-autentisering för säker åtkomst.
 
 Funktioner
