@@ -1,4 +1,8 @@
+
+
 # TopStyle API
+
+![TopStyle API Swagger UI](https://github.com/Perigg/TopStyle/blob/master/TopStyleAPI.png)
 
 TopStyle API är en modern webbapplikation byggd med ASP.NET Core och Entity Framework Core. Applikationen erbjuder API-tjänster för att hantera produkter, användare och beställningar, och använder JWT-autentisering för säker åtkomst.
 
