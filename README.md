@@ -36,7 +36,7 @@ TopStyle API är en modern webbapplikation byggd med ASP.NET Core och Entity Fra
 
 1. Klona projektet:
    ```bash
-   git clone https://github.com/your-repo/topstyle-api.git
+   git clone https://github.com/PerIgg/topstyle-api.git
    cd topstyle-api
    ```
 
